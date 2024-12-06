@@ -1,0 +1,3 @@
+Neste arquivo README vou descrever sobre o site, é um pequeno projeto que estava desenvolvendo para aprender mais sobre o desenvolvimento web e alguma de suas capacidades, mas agora com essa atividade, posso utilizá-lo para aprender mais sobre Git e também sobre a Engenharia de Software.
+
+Falando sobre o projeto em sí é simples, apenas um site básico que tenta emular o site da Nike com algumas páginas e funcionalidades, planejo adicionar mais funcionalidades no futuro, como criar uma automação que simula compras e tudo mais.
